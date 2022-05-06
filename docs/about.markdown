@@ -25,37 +25,37 @@ Hello! My name is Pavel Novikov. I'm Test Automation Engineer / QA Engineer. <br
 - Basic knowledge of HTML, CSS, JavaScript, SQL, Python, Spring Framework, Angular
 <br>
 
-**Education**
-2013 - 2017 - Petrozavodsk State University, Bachelor of Applied Mathematics and Informatics
-2017 - 2017 - Petrozavodsk State University, Master of Information Systems and Technologies
+**Education** <br>
+2013 - 2017 - Petrozavodsk State University, Bachelor of Applied Mathematics and Informatics <br>
+2017 - 2017 - Petrozavodsk State University, Master of Information Systems and Technologies <br>
 <br>
 
-**Professional experience**
-02/2019 - Present - NatLex, QA Engineer
-02/2017 - 11/2017 - Valmet Automation Oy, Automation QA Engineer
+**Professional experience** <br>
+02/2019 - Present - NatLex, QA Engineer <br>
+02/2017 - 11/2017 - Valmet Automation Oy, Automation QA Engineer <br>
 07/2016 - 08/2016 - RealTrac Technologies, Trainee QA
 <br>
 
-**Certifications**
+**Certifications** <br>
 2021 - ISTQB Certified Tester Foundation Level
 <br>
 
-**Conferences**
-2019 - Web Standard Days, Saint Petersburg
-2019 - Heisenbug, Moscow
-2020 - Heisenbug (remote)
-2021 - Podlodka QA Crew
+**Conferences** <br>
+2019 - Web Standard Days, Saint Petersburg <br>
+2019 - Heisenbug, Moscow <br>
+2020 - Heisenbug (remote) <br>
+2021 - Podlodka QA Crew (remote) <br>
 <br>
 
-**Talks**
-02/2022 - BeerConference
+**Talks** <br>
+02/2022 - BeerConference <br>
 04/2022 - Natlex Conf
 <br>
 
-**Hackathons**
+**Hackathons** <br>
 2021 - iVision (4-th position)
 <br>
 
-**Language skills**
-Russian - native speaker
-English - pre-intermediate
+**Language skills** <br>
+Russian - native speaker <br>
+English - pre-intermediate <br>
