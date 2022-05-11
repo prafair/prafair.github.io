@@ -38,4 +38,4 @@ In practice, I manage to play different roles, if there are interesting tasks or
 A good QA is a friend and helper of the whole team, making a significant contribution to the development of the product and to improving the work of the team.
 
 _________________
-Original post in Telegram (Russian) - <https://telegra.ph/Kak-QA-mozhet-vesti-komandu-k-uspehu-02-18-2>
+Original post in Telegram - <https://telegra.ph/Kak-QA-mozhet-vesti-komandu-k-uspehu-02-18-2>
