@@ -35,4 +35,4 @@ But despite the difficulties, it was an interesting challenge 🙌 I liked tryin
 I learned some lessons for myself for the future, that it is necessary to study and understand the work of algorithms more, in which cases it is better to apply. And improve work with front-end frameworks 📚
 
 _________________
-Original post in Telegram (Russian) - <https://t.me/qa_relia/44>
+Original post in Telegram - <https://t.me/qa_relia/44>
