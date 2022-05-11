@@ -25,4 +25,4 @@ categories: test-case checklist pros cons
 ➖ less detail that does not suit the customer or management <br>
 
 _________________
-Original post in Telegram (Russian) - <https://t.me/qa_relia/32>
+Original post in Telegram - <https://t.me/qa_relia/32>
