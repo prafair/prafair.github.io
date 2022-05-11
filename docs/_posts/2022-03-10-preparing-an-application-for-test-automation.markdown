@@ -56,4 +56,4 @@ The best solution here would be a discussion about improving performance, perhap
 Based on the above tips, you can facilitate the automation of application testing.
 
 _________________
-Original post in Habr (Russian) - <https://habr.com/ru/post/654959/>
+Original post in Habr - <https://habr.com/ru/post/654959/>
