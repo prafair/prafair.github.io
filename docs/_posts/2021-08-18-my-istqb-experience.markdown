@@ -37,4 +37,4 @@ Well, in the end, after you exit the testing mode, a message immediately appears
 The experience of taking an exam remotely is interesting and unforgettable. And in general, the knowledge gained during the preparation and delivery is very valuable. Of course, everything is not always achievable in practice, and often unattainable at all. ISTQB does not provide 100% ready-made solutions. But it is always useful and necessary to apply something, for example, some specific approaches to testing. The next Advanced level is also valid for an unlimited amount of time, but the exam is more difficult, more thorough preparation is required.
 
 _________________
-Original post in Telegram (Russian) - <https://t.me/qa_relia/36>
+Original post in Telegram - <https://t.me/qa_relia/36>
