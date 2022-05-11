@@ -25,4 +25,4 @@ Team development is, in principle, one of the important areas, here you need to 
 ❓ And a question to everyone, have you heard about this approach at all? Or maybe you are already trying to get closer to the ideal team?😊 
 
 _________________
-Original post in Telegram  <https://t.me/qa_relia/50>
+Original post in Telegram - <https://t.me/qa_relia/50>
