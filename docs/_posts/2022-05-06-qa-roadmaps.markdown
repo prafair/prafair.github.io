@@ -25,4 +25,4 @@ I have collected together the accumulated links to roadmaps that will be useful 
 <https://drive.google.com/file/d/1gl9YKwnaokcJnMMOcpfxoB9Hi4Ce_EfR/view>
 
 _________________
-Original post in Telegram (Russian) - <https://t.me/qa_relia/49>
+Original post in Telegram - <https://t.me/qa_relia/49>
