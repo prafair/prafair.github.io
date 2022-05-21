@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Mistakes that can lead to blockers
+date:   2022-05-18 15:51:15 +0300
+categories: articles
+---
+Based on my [comment](https://habr.com/ru/post/576756/comments/#comment_23459020) to the article "TOP 10 Testers Mistakes That Lead to Blockers". <br>
+
+▫️ **Don't test in all versions** <br>
+
+If several versions of the product are being changed at once, then several versions should be tested in order to avoid bugs. <br>
+How can this be avoided? It is necessary to create a checklist for testing; create a separate task for testing. <br>
+
+▫️ **Test not in all places** <br>
+
+It happens that the tested functionality is used in several places, but is not tested in all places, but only in some of them. <br>
+It is necessary to have a map of functionality or a table by which you can understand in which places this functionality is still used. Also here you can ask yourself, why in general the same functionality behaves differently in different places? <br>
+
+▫️ **Blindly trust requirements and other sources** <br>
+
+The tester believed those task/description and tested as indicated there. As a result, the feature was implemented incorrectly, the bug was not fixed. <br>
+
+How can you overcome? Rechecking the requirements, clarifying with questions like "how should this work in practice?", testing deeper than the requirements and revealing their impact on the entire system, testing the requirements earlier. <br>
+
+▫️ **Test without an open console (errors do not always pop up clearly)** <br>
+
+When testing, do not notice the errors that pop up in the console. As a result, there is a non-working functionality, slow pages, friezes.
+Your system for collecting logs is already bursting at the seams, constant random errors from clients <br>
+
+What can be done here? Enable auto-opening of the console, set up monitoring for errors in the console and monitor them, assigning them to those responsible. <br>
+
+▫️ **Ignorance of the values ​​and priorities of users, because of which you can miss serious bugs, although it would seem** <br>
+
+This is where product research and user experience can help. Think like a user, learn the basic behaviors under different roles, etc. <br>
+
+▫️ **Check once. And the second time does not work anymore;) Do not forget about stability** <br>
+
+The last item for today ;) It's more based on experience, and the rest of the items too. There are things that work out 1-2 times, but subsequently will not work.
