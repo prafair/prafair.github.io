@@ -50,7 +50,7 @@ Hello! My name is Pavel Novikov. I'm Test Automation Engineer / QA Engineer. <br
 <br>
 
 **Talks** <br>
-Link - {% link talks %}
+Link - {% link talks.md %}
 02/2022 - BeerConference <br>
 04/2022 - Natlex Conf
 <br>
