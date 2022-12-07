@@ -9,7 +9,7 @@ Hello! My name is Pavel Novikov. I'm Test Automation Engineer / QA Engineer. <br
 **Main skills:** <br>
 - Java, Groovy
 - Selenide
-- TestNG
+- TestNG, JUnit
 - Moon (Moon1, Moon2)
 - Allure Report
 <br>
@@ -38,22 +38,26 @@ Hello! My name is Pavel Novikov. I'm Test Automation Engineer / QA Engineer. <br
 
 **Certifications** <br>
 2021 - ISTQB Certified Tester Foundation Level
+2022 - Course "Creating and managing the testing team"
 <br>
 
 **Conferences** <br>
 2019 - Web Standard Days, Saint Petersburg <br>
 2019 - Heisenbug, Moscow <br>
 2020 - Heisenbug (remote) <br>
-2021 - Podlodka QA Crew (remote) <br>
+2021 - Podlodka QA Crew #4 (remote) <br>
+2022 - Podlodka QA Creww #8 (remote)
 <br>
 
 **Talks** <br>
+Link - {% link talks %}
 02/2022 - BeerConference <br>
 04/2022 - Natlex Conf
 <br>
 
 **Hackathons** <br>
-2021 - iVision (4-th position)
+2021 - iVision (4-th position) <br>
+2022 - TON Test Challenge (three prizes) - <https://ton.org/en/ton-test-challenge>
 <br>
 
 **Language skills** <br>
