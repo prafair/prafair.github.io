@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Pavel Novikov. I'm Test Automation Engineer / QA Engineer. <br>
+Hello! My name is Pavel Novikov. I'm QA Automation Engineer / QA Engineer. <br>
 
 **Main skills:** <br>
 - Java, Groovy
-- Selenide
+- Selenium, Selenide
 - TestNG, JUnit
-- Moon (Moon1, Moon2)
+- Moon, Selenoid
 - Allure Report
 <br>
 
@@ -27,18 +27,17 @@ Hello! My name is Pavel Novikov. I'm Test Automation Engineer / QA Engineer. <br
 
 **Education** <br>
 2013 - 2017 - Petrozavodsk State University, Bachelor of Applied Mathematics and Informatics <br>
-2017 - 2017 - Petrozavodsk State University, Master of Information Systems and Technologies <br>
 <br>
 
 **Professional experience** <br>
-02/2019 - Present - NatLex, QA Engineer <br>
-02/2017 - 11/2017 - Valmet Automation Oy, Automation QA Engineer <br>
+02/2019 - Present - Natlex, QA Engineer <br>
+02/2017 - 11/2017 - Valmet Automation Oy, Test Automation Engineer <br>
 07/2016 - 08/2016 - RealTrac Technologies, Trainee QA
 <br>
 
 **Certifications** <br>
 2021 - ISTQB Certified Tester Foundation Level
-2022 - Course "Creating and managing the testing team"
+2022 - Course "Creating and managing the testing team", Quality Lab
 <br>
 
 **Conferences** <br>
@@ -46,13 +45,15 @@ Hello! My name is Pavel Novikov. I'm Test Automation Engineer / QA Engineer. <br
 2019 - Heisenbug, Moscow <br>
 2020 - Heisenbug (remote) <br>
 2021 - Podlodka QA Crew #4 (remote) <br>
-2022 - Podlodka QA Creww #8 (remote)
+2022 - Podlodka QA Crew #8 (remote) <br>
 <br>
 
 **Talks** <br>
-Link - {{site.baseurl}}/talks/)
-02/2022 - BeerConference <br>
-04/2022 - Natlex Conf
+[Page with my talks]({{ '/talks/' | relative_url }}) <br>
+02/2022 - BeerConference (internal event) <br>
+04/2022 - Natlex Conf, "Test Automation" <br>
+11/2022 - BeerConference (internal event) <br>
+12/2022 - Podlodka QA Crew #8, Open Mic, "Personal experience of writing articles"
 <br>
 
 **Hackathons** <br>
