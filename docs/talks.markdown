@@ -10,4 +10,4 @@ permalink: /talks/
 
 2) My mini-report on Podlodka QA Crew #8 at the Open Mic session on the topic of writing articles: <br>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/apuxrVuwrUw&t=1720s"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/apuxrVuwrUw?start=1720"></iframe>
