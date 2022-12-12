@@ -36,8 +36,8 @@ Hello! My name is Pavel Novikov. I'm QA Automation Engineer / QA Engineer. <br>
 <br>
 
 **Certifications** <br>
-2021 - ISTQB Certified Tester Foundation Level
-2022 - Course "Creating and managing the testing team", Quality Lab
+2021 - ISTQB Certified Tester Foundation Level, [link](http://scr.istqb.org/?name=&number=80243&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)<br>
+2022 - Course "Creating and managing the testing team", Quality Lab, [link](https://qaschool.ru/school-center/certificate.php?id=23485&lang=en)
 <br>
 
 **Conferences** <br>
