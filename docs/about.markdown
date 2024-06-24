@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Pavel Novikov. I'm QA Automation Engineer / QA Engineer. <br>
+Hello! My name is Pavel Novikov. I'm Fullstack QA Engineer / QA Automation Engineer. <br>
 
 **Main skills:** <br>
-- Java, Groovy
-- Selenium, Selenide
+- Java, Kotlin, Groovy, Swift
+- Selenide, Ultron, XCUITest
 - TestNG, JUnit
 - Moon, Selenoid
 - Allure Report
@@ -19,7 +19,7 @@ Hello! My name is Pavel Novikov. I'm QA Automation Engineer / QA Engineer. <br>
 - Gradle, Maven
 - GitLab, Jenkins, TeamCity, JetBrains Space, Bitbucket
 - Docker, Kubernetes
-- Zephyr Squad, Zephyr Scale
+- Allure TestOps, Zephyr Squad, Zephyr Scale
 - Postman
 - Testing: Web (frontend/backend), mobile (iOS, Android), PWA
 - Basic knowledge of HTML, CSS, JavaScript, SQL, Python, Spring Framework, Angular
@@ -30,7 +30,8 @@ Hello! My name is Pavel Novikov. I'm QA Automation Engineer / QA Engineer. <br>
 <br>
 
 **Professional experience** <br>
-02/2019 - Present - Natlex, QA Engineer <br>
+05/2023 - Present - VK, Fullstack QA Engineer <br>
+02/2019 - 05/2023 - Natlex, QA Engineer <br>
 02/2017 - 11/2017 - Valmet Automation Oy, Test Automation Engineer <br>
 07/2016 - 08/2016 - RealTrac Technologies, Trainee QA
 <br>
